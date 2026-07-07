@@ -1,4 +1,5 @@
 Packet Sniffer
+
 A Python-based Packet Sniffer that captures and analyzes live network traffic using Scapy. The project supports protocol filtering, hostname resolution, packet logging, and PCAP export for analysis in Wireshark.
 
 Features
